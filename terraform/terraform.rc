@@ -1,0 +1,6 @@
+provider_installation {
+	# for local provider dev: ignores checksum checks 
+	dev_overrides {
+		"terraform.local/dev/xcloud" = "<your_local_repo>/terraform-provider-xcloud"
+	}
+}

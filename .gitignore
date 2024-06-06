@@ -1,0 +1,7 @@
+.env
+.terraform*
+*.tfvars
+*.tfstate*
+database.db
+__pycache__
+*.exe*
