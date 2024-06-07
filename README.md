@@ -1,6 +1,7 @@
 # TERRAFORM BRIDGE
 
-This is a very simple example of a Terraform Bridge which you could use to create a Middleware between a Terraform Provider and your Infrastructure Orchestration Layer. This allows for the decoupling of maybe outdated interfaces and provides the simplicity and convenience of a Hyperscaler for your Platform Teams and gives your Site Reliability Engineers room to optimize the behind-the-scene systems. A simple and standardized REST API results in less work that needs to be done inside the Terraform Provider. A Terraform Provider is often just a REST Client disguised as a spaceship :P (Love you hashicorp :*)
+This is a very simple example of a Terraform Bridge, which you can use to create middleware between a Terraform Provider and your Infrastructure Orchestration Layer. This decouples potentially outdated interfaces and provides the simplicity and convenience of a hyperscaler for your platform teams, giving your site reliability engineers room to optimize behind-the-scenes systems. A simple and standardized REST API results in less work required inside the Terraform Provider. A Terraform Provider is often just a REST client disguised as a spaceship.
+(Still Love you HashiCorp :*))
 
 
 Before first start:
